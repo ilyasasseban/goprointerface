@@ -1,0 +1,93 @@
+html body {
+    background-color: rgba(0, 0, 0, 1.00);
+}
+
+body {
+    font-family: 'Segoe UI', sans-serif;
+}
+
+header {
+    background-color: black;
+}
+
+li.nav-item a {
+    color: #fefeff;
+    font-size: 20px;
+}
+
+.svg-wrapper {
+    display: flex;
+}
+
+.svg-wrapper svg {
+    fill: white;
+}
+
+.red {
+    position: absolute;
+    top: 85px;
+    left: 575px;
+    width: auto;
+    height: 540px;
+}
+
+.gopro {
+    position: absolute;
+    top: 205px;
+    left: 655px;
+    width: auto;
+    height: 300px;
+}
+
+.img {
+    position: absolute;
+    top: -10px;
+    left: 170px;
+    width: auto;
+    height: 300px;
+}
+
+.title {
+    color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', ;
+    font-size: 115px;
+    position: absolute;
+    top: 18%;
+    left: 6%;
+}
+
+.cotitle,
+p {
+    color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', sans-serif;
+}
+
+h2 {
+    font-size: larger;
+    position: absolute;
+    top: 40%;
+    left: 25%;
+}
+
+.description {
+    font-size: larger;
+    position: absolute;
+    top: 50%;
+    left: 20%;
+}
+
+.price {
+    font-size: larger;
+    position: absolute;
+    top: 70%;
+    left: 30%;
+    font-family: 'Segoe UI',
+}
+
+.buttona {
+    font-size: larger;
+    position: absolute;
+    top: 77%;
+    left: 32%;
+    font-family: 'Segoe UI',
+}
